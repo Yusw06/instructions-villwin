@@ -2,7 +2,7 @@
 // @name         VILL WIN BOT
 // @namespace    https://www.wolvesville.com/
 // @version      1.3
-// @description  Script is developed to do almost work when u play custom !
+// @description  Script
 // @homepage     https://github.com
 // @author       https://www.facebook.com
 // @match        https://www.wolvesville.com/
