@@ -12,7 +12,9 @@ Step 3: Turn developer mode.
 ![Ekran görüntüsü 2024-12-29 225551](https://github.com/user-attachments/assets/d20cf7d4-b640-4018-b726-a07f178ef940)
 
 Step 4: Create a new script and paste the script that is special to you. 
-![Ekran görüntüsü 2024-12-29 225817](https://github.com/user-attachments/assets/9383295e-3533-41f8-a77a-a251c66cf2fa)
+![Ekran görüntüsü 2024-12-30 003216](https://github.com/user-attachments/assets/c108f49c-babc-4e94-bd1d-2215cb99dcbe)
+
+
 ![Ekran görüntüsü 2024-12-29 230046](https://github.com/user-attachments/assets/0b28b3a3-7df1-47ab-9220-8888a90d7915)
 
 Dont forget to do Ctrl + S
