@@ -1,8 +1,9 @@
 # instructions-villwin
 Step 1:
 first, you need to make your in game personal settings as follows;
-![Ekran görüntüsü 2024-12-29 222836](https://github.com/user-attachments/assets/8879e039-b59b-4031-88ec-c25c10654958)
-your game language must be English!!
+![Ekran görüntüsü 2024-12-30 003024](https://github.com/user-attachments/assets/f66539e7-b204-48e3-967f-911decbe2b48),
+
+Your game language must be English!!
 
 Step 2: Dowloand chorme/edge tampermonkey module.
 ![Ekran görüntüsü 2024-12-29 224904](https://github.com/user-attachments/assets/cf76b018-2a47-433d-be58-4331b0b1abb1)
