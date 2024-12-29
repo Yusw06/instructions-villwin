@@ -11,7 +11,7 @@ Step 2: Dowloand chorme/edge tampermonkey module.
 Step 3: Turn developer mode.
 ![Ekran görüntüsü 2024-12-29 225551](https://github.com/user-attachments/assets/d20cf7d4-b640-4018-b726-a07f178ef940)
 
-Step 4: Create a new script and paste the script that is special to you. 
+Step 4: Create a new script and paste the customuser.js script that is special to you. 
 ![Ekran görüntüsü 2024-12-30 003216](https://github.com/user-attachments/assets/c108f49c-babc-4e94-bd1d-2215cb99dcbe)
 
 
